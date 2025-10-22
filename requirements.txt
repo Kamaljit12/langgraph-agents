@@ -1,0 +1,10 @@
+pandas
+numpy
+langgraph
+langchain
+langchain-community
+langchain_groq
+langchain-core
+pypdf
+langchain-huggingface
+sentence-transformers
